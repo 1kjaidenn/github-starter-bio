@@ -9,3 +9,5 @@ Hello! I am learning how to use GitHub.
 - Listening to Music
 - Playing Video Games
 - Exercising
+
+I like getting money.
